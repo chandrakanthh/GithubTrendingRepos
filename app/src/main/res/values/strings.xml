@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">GithubTrendingRepos</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="search_repos">Search Repos..</string>
+    <string name="title">Trending Repos</string>
+    <string name="builtby_str">Builtby</string>
+    <string name="current_stars">%1$s stars today</string>
 </resources>
